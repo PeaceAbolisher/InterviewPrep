@@ -1,0 +1,9 @@
+pandas
+joblib
+mlflow
+pydantic
+scikit-learn
+fastapi
+uvicorn
+
+#pip install -r requirements.txt to install everything needed
