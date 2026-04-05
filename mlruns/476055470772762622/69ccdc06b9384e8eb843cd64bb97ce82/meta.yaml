@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Rafael Fonseca/Desktop/Glintt_Interview_Prep/mlruns/476055470772762622/69ccdc06b9384e8eb843cd64bb97ce82/artifacts
+end_time: 1775417351813
+entry_point_name: ''
+experiment_id: '476055470772762622'
+lifecycle_stage: active
+run_id: 69ccdc06b9384e8eb843cd64bb97ce82
+run_name: rf_50_trees
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775417351664
+status: 3
+tags: []
+user_id: Rafael Fonseca
